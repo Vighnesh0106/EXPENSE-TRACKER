@@ -1,0 +1,14 @@
+[
+  {
+    "title": "shoe",
+    "amount": 1000,
+    "category": "Shopping",
+    "date": "2026-05-28"
+  },
+  {
+    "title": "lunch",
+    "amount": 725,
+    "category": "Food",
+    "date": "2026-05-28"
+  }
+]
